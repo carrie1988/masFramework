@@ -1,0 +1,42 @@
+{
+  "name": "mas4.1",
+  "version": "4.1.0",
+  "description": "Mas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=6.10.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": ">=2.0.0-rc.6",
+    "ccap": ">=0.6.10",
+    "node-expat": ">=2.3.15",
+    "express": "3.21.2",
+    "forever": ">=0.15.2",
+    "hiredis": ">=0.5.0",
+    "java": ">=0.8.0",
+    "jsdom": ">=9.4.1",
+    "ldapjs": ">=1.0.1",
+    "libxslt": ">=0.6.3",
+    "log4js": ">=0.6.37",
+    "mongoose": ">=4.5.3",
+    "mqtt": ">=1.12.0",
+    "mysql": ">=2.11.1",
+    "node-gyp": ">=3.6.0",
+    "node-uuid": ">=1.4.7",
+    "node-zookeeper-client": ">=0.2.2",
+    "phantom": "2.1.11",
+    "rabbit.js": ">=0.4.4",
+    "socket.io-client": ">=1.7.3",
+    "threads_a_gogo": ">=0.1.13",
+    "underscore": ">=1.8.3",
+    "usage": ">=0.7.1",
+    "xml2js": ">=0.4.17",
+    "xml2json": ">=0.9.1",
+    "xslt": ">=0.7.0"
+  }
+}
